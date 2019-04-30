@@ -147,8 +147,6 @@ Note: live coding demo, participative if possible
 
 ## References
 
-[Google Slides](https://www.google.com/slides/about/)
-
 [reveal-md](https://github.com/webpro/reveal-md)
 
 [mentimeter.com](https://www.mentimeter.com)
