@@ -1,0 +1,20 @@
+Before starting the presentation, set up the following things:
+
+1. Open 'Field trips and codebytes' slides at http://bit.ly/2ZhldJO
+
+2. Open tterm and run ttermps1, then cd media/DATA/eth_pres
+
+3. Open https://www.mentimeter.com/app and login. Open ETH_python_usage presentation in
+chromium
+
+4. open github/Zabamund/ >>>> go to misc, then go to minitutos, then go to demos
+
+5. start `juno` in /misc/
+
+6. go to Intro_to_interact.ipynb and run `import plotter` demo functionality, then show
+code.
+
+7. back to reveal-md
+
+8. colab demo
+
