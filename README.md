@@ -8,8 +8,6 @@ I created this repo as several people have asked me to tell my story, the story 
 
 These are the resources I use to tell my story.
 
-[Google Slides](https://www.google.com/slides/about/)
-
 [reveal-md](https://github.com/webpro/reveal-md)
 
 [mentimeter.com](https://www.mentimeter.com)
