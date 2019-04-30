@@ -6,6 +6,7 @@
     right: 0;
     text-align: left;
 }
+
 #bottom-right {
     bottom: 0;
     left: 0;
@@ -13,6 +14,17 @@
     right: 0;
     text-align: right;
 }
+
+#container {
+    display: flex; 
+}
+
+#wordcloud {
+    flex-grow: 10;
+    height: 630px;
+    width: auto;
+}
+
 </style>
 
 
@@ -28,6 +40,13 @@ ETH Zürich - May 2019
 </div>
 
 <!-- .slide: data-background="./images/Agile_logo.png" -->
+
+---
+
+<div id="container">
+<div id="whoami"><img src="./images/arm_waving.png" alt="whoami" height="600" width=auto/></div>
+<div id="wordcloud"><img id="wordcloud" src="./images/whoami.png" alt="wordcloud"/></div>
+</div>
 
 ---
 
