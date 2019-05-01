@@ -19,3 +19,5 @@ These are the resources I use to tell my story.
 [my github](https://github.com/Zabamund)
 
 [word_cloud](https://github.com/amueller/word_cloud)
+
+[jupyter.org](https://jupyter.org/)

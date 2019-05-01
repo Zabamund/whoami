@@ -137,8 +137,7 @@ Note: getting into the fun parts
 
 ## Live demo
 
-- hello world in Python
-- interactive fracture analysis in a Jupyter notebook
+interactive fracture analysis in a Jupyter notebook
 
 Note: live coding demo
 
@@ -157,6 +156,8 @@ Note: live coding demo
 [my github](https://github.com/Zabamund)
 
 [word_cloud](https://github.com/amueller/word_cloud)
+
+[jupyter.org](https://jupyter.org/)
 
 ---
 
