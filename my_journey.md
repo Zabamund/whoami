@@ -135,13 +135,12 @@ Note: getting into the fun parts
 
 ---
 
-## Colab demo
+## Live demo
 
-- hello world
-- hello Python
-- fracture analysis
+- hello world in Python
+- interactive fracture analysis in a Jupyter notebook
 
-Note: live coding demo, participative if possible
+Note: live coding demo
 
 ---
 
