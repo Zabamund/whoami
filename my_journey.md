@@ -169,6 +169,6 @@ Note: live coding demo
 
 [softwareunderground.org](https://softwareunderground.org)
 
-Note: thank Philippo, Agile*, and the audience of course. Point them to SWUNG. MENTIMETER
+Note: thank talk host, Agile*, and the audience of course. Point them to SWUNG. MENTIMETER
 
 <!-- .slide: data-background="./images/Agile_logo.png" -->
