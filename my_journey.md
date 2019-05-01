@@ -54,7 +54,7 @@ ETH Zürich - May 2019
 
 ![oil price](./images/oil_price.png)
 
-Note: My journey so far, cycles of reinvention, geology in different oil price settings, bouncing back: my story (google slides at http://bit.ly/2GlsBuK)
+Note: My journey so far, cycles of reinvention, geology in different oil price settings, bouncing back
 
 ----
 
