@@ -78,7 +78,7 @@ Note: Field work sometime looks so quiet and peaceful, here we were just out of 
 
 ![Ora Valley](./images/Ora_valley.png)
 
-Note: chatting with the village Mukhtar - the head of the village. He tells me of war and peace, of smugglers carrying tea and ammunition accorss the border, and of playing on the Triassic rocks of the Kurra Chine formation
+Note: chatting with the village Mukhtar - the head of the village. He tells me of war and peace, of smugglers carrying tea and ammunition accross the border, and of playing on the Triassic rocks of the Kurra Chine formation
 
 ----
 
