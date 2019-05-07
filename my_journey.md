@@ -127,7 +127,7 @@ Note: the slow and humble beginnings, learning a new job at 40 years old.
 
 - [demos](https://github.com/Zabamund/misc/tree/master/scripts/demos)
 - [mini tutorials](https://github.com/Zabamund/misc/tree/master/scripts/minitutos)
-- [Stacked fracture azimuth plots](https://github.com/Zabamund/misc/blob/master/scripts/demos/KDE_smoothing.ipynb)
+- [Stacked fracture azimuth](https://github.com/Zabamund/misc/blob/master/scripts/demos/KDE_smoothing.ipynb)
 - [Scrolling seismic](https://github.com/Zabamund/misc/blob/master/scripts/demos/Intro_to_interact.ipynb)
 - [Fracture analysis](https://github.com/Zabamund/fracture-SFA)
 
